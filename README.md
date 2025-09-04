@@ -20,3 +20,5 @@ ServerName,LastStatus
 Server1,Success
 Server2,Failure
 ```
+## License
+MIT
