@@ -15,8 +15,8 @@ Reads server list from a CSV file, pings them, and updates their status back in 
 .\EnvironmentChecker.ps1
 ```
 ## Example CSV Format
-
+```csv
 ServerName,LastStatus
 Server1,Success
 Server2,Failure
-
+```
